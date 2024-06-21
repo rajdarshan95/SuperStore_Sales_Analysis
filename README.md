@@ -1,3 +1,7 @@
+# Super Store Sales Analysis Project
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
+
 🚀 Thrilled to share my latest project: Super Store E-commerce Sales Analysis with Power BI! 📊
 
 I recently completed a comprehensive e-commerce sales analysis project using Power BI, and I'm excited to highlight some of the key insights and visualizations. Here are some of the project’s main features:
